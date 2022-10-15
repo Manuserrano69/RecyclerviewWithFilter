@@ -10,6 +10,12 @@ class SuperHeroProvider {
                 "https://cursokotlin.com/wp-content/uploads/2020/09/Webp.net-compress-image.jpg"
             ),
             SuperHero(
+                "LoloMan",
+                "Jetbrains",
+                "Manolin",
+                "https://www.levantinadeparquets.com/wp-content/uploads/2018/02/logo-empresa.png"
+            ),
+            SuperHero(
                 "Spiderman",
                 "Marvel",
                 "Peter Parker",
